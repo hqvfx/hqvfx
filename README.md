@@ -1,0 +1,2 @@
+# hqvfx
+HQ VFX CORE PACKAGE LIBS
