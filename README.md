@@ -7,7 +7,7 @@
     Base library for visual effects content production pipeline
     Copyright (C) 2021  HQ VFX TECHNOLOGIES
     Website: www.hqvfx.com
-    Email: contact@hqvfx.com
+    Email: developers@hqvfx.com
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
